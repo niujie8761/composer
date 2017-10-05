@@ -1,0 +1,14 @@
+{
+    "name": "niujie/demo",
+    "description": "a test composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "niujie",
+            "email": "2318741485@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
